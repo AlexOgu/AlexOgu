@@ -1,11 +1,6 @@
 <!--Banner-->
 ![Kiran1689 Banner Image]([./banner.png](https://media.discordapp.net/attachments/603313733846040576/1324567262530900040/kEYBOARD_WARRIOR_3.png?ex=67789ee4&is=67774d64&hm=d661311ae5132c6356c97e1f726f0a32361c994c04791603767a39d019cb843f&=&format=webp&quality=lossless))
 
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
-
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ! 
 *Digital Craftsman (Developer / Programmer)*

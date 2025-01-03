@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
+<h1 align="center">I'm Alex</h1>
+- 🔭 I'm an engineering student from Bowie Maryland **from Bowie Maryland**
+
+- 🌱 I’m currently learning Java **learning Java**
+
+- 👯 I’m looking to work on optimization and virtual reality research **as well as circuit building**
+
 - 📫 How to reach me **aogu456@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

@@ -1,4 +1,4 @@
-<h1 align="center">I'm Alex</h1>
+I'm Alex</h1>
 - 🔭 I'm an engineering student from Bowie Maryland **from Bowie Maryland**
 
 - 🌱 I’m currently learning Java **learning Java**

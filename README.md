@@ -119,5 +119,5 @@ This software uses the following open source packages:
 
 ---
 > GitHub [@AlexOgu](https://github.com/AlexOgu) &nbsp;&middot;&nbsp;
-> LinkedIn [@AlexOgu]([in/alex-ogu-12794b283](https://www.linkedin.com/in/alex-ogu-12794b283/))
+> LinkedIn [@AlexOgu](https://www.linkedin.com/in/alex-ogu-12794b283/)
 

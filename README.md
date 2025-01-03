@@ -119,5 +119,5 @@ This software uses the following open source packages:
 
 ---
 > GitHub [@AlexOgu](https://github.com/AlexOgu) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
+> LinkedIn [@amit_merchant](in/alex-ogu-12794b283)
 

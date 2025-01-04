@@ -1,22 +1,18 @@
 <!--Banner-->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/210e8b65-b40f-4584-a566-f6218f876d1c" alt="alexogugithub" width="500">
+  <img src="https://github.com/user-attachments/assets/bbb05406-7cbf-4954-806d-d55f46eff6d4" alt="githubpng">
 </div>
 
+<!--Header Name-->
+# ᴴᵉˡˡᵒ! ᴵ'ᵐ ᴬˡᵉˣ
+                                                   
+<!--Description-->               
+<p align="left">𝖨 𝖺𝗆 𝖺 𝖿𝗎𝗅𝗅-𝗍𝗂𝗆𝖾 𝗌𝗍𝗎𝖽𝖾𝗇𝗍 𝗐𝗂𝗍𝗁 𝖺 𝗁𝗎𝗀𝖾 𝗅𝗈𝗏𝖾 𝖿𝗈𝗋 𝖯𝗒𝗍𝗁𝗈𝗇, 𝖢++, 𝖫𝗎𝖺, 𝖽𝖺𝗍𝖺 𝗏𝗂𝗌𝗎𝖺𝗅𝗂𝗓𝖺𝗍𝗂𝗈𝗇, 𝖺𝗇𝖽 𝖼𝗂𝗋𝖼𝗎𝗂𝗍 𝗍𝗈 𝖼𝗈𝖽𝖾 𝗂𝗇𝗍𝖾𝗀𝗋𝖺𝗍𝗂𝗈𝗇 </p>
 
 
-<h1 align="center">
- <img src="[image-url-here](https://media.discordapp.net/attachments/603313733846040576/1324567262530900040/kEYBOARD_WARRIOR_3.png?ex=677a9924&is=677947a4&hm=261f1f7ff06dc82294a2d9499be12fcd37ea84e3d4c33af3eaf9cc72e60b9a8e&=&format=webp&quality=lossless)" />
-</h1>
-
-
-
-<!--Start Intro-->               
-<p align="left">I am a full-time student with a huge love for Python, C++, Lua,  and Data Visualization. </p>
-
-- ✨ Current engineering student :)
-- 🌱 I’m currently learning many things, curiosity is my favorite hobby.
-- ❤ Contributing to optimization research.
+- 🖥️ 𝖨 𝖺𝗆 𝖺 𝖢𝗈𝗆𝗉𝗎𝗍𝖾𝗋 𝖾𝗇𝗀𝗂𝗇𝖾𝖾𝗋𝗂𝗇𝗀 𝗌𝗍𝗎𝖽𝖾𝗇𝗍 𝖿𝗋𝗈𝗆 𝖡𝗈𝗐𝗂𝖾 :)
+- 💭 𝖱𝗂𝗀𝗁𝗍 𝗇𝗈𝗐 𝖨 𝖺𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗀𝖾𝗍𝗍𝗂𝗇𝗀 𝗆𝗒 𝗁𝖺𝗇𝖽𝗌 𝖽𝗂𝗋𝗍𝗒 𝗐𝗂𝗍𝗁 𝖩𝖺𝗏𝖺...
+- 🤍 𝖨'𝗆 𝗉𝖺𝗌𝗌𝗂𝗈𝗇𝖺𝗍𝖾 𝖺𝖻𝗈𝗎𝗍 𝗆𝖺𝗄𝗂𝗇𝗀 𝗀𝖺𝗆𝖾𝗌, 𝖾𝗑𝗉𝖾𝗋𝗂𝗆𝖾𝗇𝗍𝗂𝗇𝗀 𝗐𝗂𝗍𝗁 𝖾𝗇𝗀𝗂𝗇𝖾 𝗉𝗁𝗒𝗌𝗂𝖼𝗌, 𝗋𝖾𝗌𝖾𝖺𝗋𝖼𝗁, 𝖺𝗇𝖽 3𝖽 𝗈𝗉𝗍𝗂𝗆𝗂𝗓𝖺𝗍𝗂𝗈𝗇
 <!--End Intro-->
 
 ---
